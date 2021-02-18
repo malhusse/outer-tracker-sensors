@@ -1,0 +1,27 @@
+.rc-slider-rail {
+    background-color: #c8c8c8;
+}
+
+.rc-slider-handle {
+    /* border: darkblue; */
+    background-color: #96dbfa;
+}
+.rc-slider-mark-text {
+    font-size: larger;
+    /* font-weight: bold; */
+    color: black;
+}
+
+.rc-slider-mark-text:last-child {
+    transform: translateX(50%) !important ;
+    right: 0% !important;
+    left: auto !important;
+    }
+
+.Select--single>.Select-control .Select-value, .Select-placeholder {
+    text-align: center;
+}
+
+body {
+    background-color: #fbfbfb;
+}

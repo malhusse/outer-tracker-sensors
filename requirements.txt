@@ -1,0 +1,11 @@
+django
+gunicorn
+django-heroku
+dash
+plotly
+numpy
+pandas
+scipy
+sklearn
+seaborn
+sqlalchemy
